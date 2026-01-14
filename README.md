@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Dinesh.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-🔭 I’m currently working on scalable backend systems using Node.js, Express, MongoDB/PostgreSQL, and JWT authentication.<br>👯 I’m looking to collaborate on MERN stack projects, backend-heavy applications, real-time systems, and open-source tools involving Node.js, MongoDB, PostgreSQL, and APIs.<br>🤝 I’m looking for help with **system design, scalability, and advanced backend optimizations, especially for real-time and AI-integrated applications.<br>🌱 I’m currently learning **system design, WebSockets, and AI integrations**.<br>💬 Ask me about **Node.js, Express, MongoDB, JWT authentication, MERN stack projects, and backend APIs.<br>⚡ Fun fact: I started with frontend but fell in love with backend debugging and APIs.<br>
+🔭 I’m currently working on scalable backend systems using Node.js, Express, MongoDB/PostgreSQL, and JWT authentication.<br>👯 I’m looking to collaborate on MERN stack projects, backend-heavy applications, real-time systems, and open-source tools involving Node.js, MongoDB, PostgreSQL, and APIs.<br>🤝 I’m looking for help with **system design, scalability, and advanced backend optimizations, especially for real-time and AI-integrated applications.<br>🌱 I’m currently learning system design, WebSockets, and AI integrations.<br>💬 Ask me about Node.js, Express, MongoDB, JWT authentication, MERN stack projects, and backend APIs.<br>⚡ Fun fact: I started with frontend but fell in love with backend debugging and APIs.<br>
 
 
 ## 🌐 Socials:
