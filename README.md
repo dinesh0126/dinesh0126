@@ -1,10 +1,5 @@
 <!-- Header Image -->
-<img 
-  src="https://raw.githubusercontent.com/dinesh0126/dinesh0126/main/code1.jpg"
-  alt="Dinesh Sharma | Backend Developer"
-  width="100%"
-  height="420"
-/>
+
 
 <h1 align="center">Hi 👋, I'm Dinesh Sharma</h1>
 <h3 align="center">Backend-Focused Full Stack Developer | MERN | System Design Enthusiast</h3>
