@@ -1,4 +1,4 @@
-![MasterHead()]
+![MasterHead(https://github.com/dinesh0126/dinesh0126/blob/main/code.jpg?raw=true)]
 <h2> Hey there! I'm Dinesh.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
