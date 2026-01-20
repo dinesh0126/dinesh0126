@@ -3,7 +3,7 @@
   src="https://raw.githubusercontent.com/dinesh0126/dinesh0126/main/code1.jpg"
   alt="MasterHead"
   width="100%"
-  height="450"
+  height="400"
 />
 
 <h2> Hey there! I'm Dinesh.</h2>
