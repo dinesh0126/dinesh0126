@@ -1,44 +1,77 @@
-
+<!-- Header Image -->
 <img 
   src="https://raw.githubusercontent.com/dinesh0126/dinesh0126/main/code1.jpg"
-  alt="MasterHead"
+  alt="Dinesh Sharma | Backend Developer"
   width="100%"
-  height="400"
+  height="420"
 />
 
-<h2> Hey there! I'm Dinesh.</h2>
+<h1 align="center">Hi 👋, I'm Dinesh Sharma</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | MERN | System Design Enthusiast</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-🔭 I’m currently working on scalable backend systems using Node.js, Express, MongoDB/PostgreSQL, and JWT authentication.<br>👯 I’m looking to collaborate on MERN stack projects, backend-heavy applications, real-time systems, and open-source tools involving Node.js, MongoDB, PostgreSQL, and APIs.<br>🤝 I’m looking for help with system design, scalability, and advanced backend optimizations, especially for real-time and AI-integrated applications.<br>🌱 I’m currently learning system design, WebSockets, and AI integrations.<br>💬 Ask me about Node.js, Express, MongoDB, JWT authentication, MERN stack projects, and backend APIs.<br>⚡ Fun fact: I started with frontend but fell in love with backend debugging and APIs.<br>
+<p align="center">
+  Building scalable backend systems, real-time applications, and clean APIs.
+</p>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-sharma-971114254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshgarig@gmail.com)
+<h2>👨‍💻 About Me</h2>
 
+<ul>
+  <li>🔭 Currently working on <b>scalable backend systems</b> using <b>Node.js, Express, MongoDB, PostgreSQL</b> and <b>JWT authentication</b>.</li>
+  <li>👯 Open to collaborating on <b>MERN stack</b>, <b>backend-heavy</b>, <b>real-time</b>, and <b>open-source</b> projects.</li>
+  <li>🤝 Looking to improve in <b>system design, scalability</b>, and <b>advanced backend optimizations</b>.</li>
+  <li>🌱 Currently learning <b>System Design</b>, <b>WebSockets</b>, and <b>AI integrations</b>.</li>
+  <li>💬 Ask me about <b>Node.js, Express, MongoDB, PostgreSQL, JWT, REST APIs</b>.</li>
+  <li>⚡ Fun fact: Started with frontend, but fell in love with <b>backend debugging & APIs</b>.</li>
+</ul>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- 💻 &nbsp;
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss&logoColor=#06B6D4)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?logo=nextdotjs&logoColor=#000000)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
+<h2>🌐 Connect With Me</h2>
 
+<p>
+  <a href="https://www.linkedin.com/in/dinesh-sharma-971114254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dineshgarig@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+<h2>🛠 Tech Stack</h2>
+
+<h4>💻 Languages</h4>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
+
+<h4>🌐 Frontend</h4>
+
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs)
+
+<h4>🛢 Backend & Databases</h4>
+
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+
+<h4>⚙️ Tools & Others</h4>
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code)
+![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown)
+
+---
+
+<h3 align="center">✨ Always curious. Always building. ✨</h3>
