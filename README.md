@@ -1,6 +1,3 @@
-<!-- Header Image -->
-
-
 <h1 align="center">Hi 👋, I'm Dinesh Sharma</h1>
 <h3 align="center">Backend-Focused Full Stack Developer | MERN | System Design Enthusiast</h3>
 
