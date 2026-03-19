@@ -30,19 +30,15 @@
 
 <h2>🛠 Tech Stack</h2>
 
+<table>
+<tr>
+<td>
+
 <h4>💻 Languages</h4>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
-
-<h4>🌐 Frontend</h4>
-
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs)
 
 <h4>🛢 Backend & Databases</h4>
 
@@ -52,12 +48,27 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 
+</td>
+<td>
+
+<h4>🌐 Frontend</h4>
+
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs)
+
 <h4>⚙️ Tools & Others</h4>
 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code)
+![VS_Code](https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code)
 ![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown)
+
+</td>
+</tr>
+</table>
 
 ---
 
